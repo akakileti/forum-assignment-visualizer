@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Simple Assignment Reader",
+	"version": "2.0",
+	"description": "Reads assignment titles and due dates when clicked.",
+	"permissions": ["scripting", "activeTab", "storage"],
+	"action": {
+		"default_title": "Click to read assignments"
+	},
+	"background": {
+		"service_worker": "background.js"
+	}
+}
