@@ -1,6 +1,6 @@
 # Minerva Assignments Timeline Chrome Extension
 
-[Demo Video](path_to_your_video.mp4)
+[Demo Video](https://youtu.be/cAaSbrUp68k)
 
 ## Features
 
